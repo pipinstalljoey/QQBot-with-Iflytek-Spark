@@ -17,5 +17,5 @@ It is published on __Github__ and __Gitee__ .
 3. Iflytek
 4. JetBrains
 
-## Be my sponcer!
+## Be my sponcor!
 You can support me in writing better code in <https://afdian.net/a/pipinstalljoey>
