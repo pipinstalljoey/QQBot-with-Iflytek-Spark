@@ -1,0 +1,3 @@
+qq-botpy
+pyyaml
+websocket_client

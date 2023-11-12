@@ -1,0 +1,8 @@
+# QQ频道机器人部分
+appid: ""
+token: ""
+# 星火大模型部分
+ai-AppId: ""  # 填写控制台中获取的 APPID 信息
+ai-ApiSecret: ""  # 填写控制台中获取的 APISecret 信息
+ai-ApiKey: "" # 填写控制台中获取的 APIKey 信息
+version: ""  # 填写大模型的版本（目前仅支持v1.5和v2.0)
