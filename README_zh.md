@@ -23,3 +23,6 @@ A: Hello! How may I assist you today?
 ## 为我发电！
 
 你可以在<https://afdian.net/a/pipinstalljoey>中为我发电。
+
+## 快速开始
+点击链接，跳转至<https://blog.pipinstalljoey.top/2023/11/12/14-2-%E5%85%B3%E4%BA%8E-QQBot-with-Iflytek-Spark-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/>开始。

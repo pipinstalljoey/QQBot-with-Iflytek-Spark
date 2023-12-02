@@ -19,3 +19,6 @@ It is published on __Github__ and __Gitee__ .
 
 ## Be my sponcor!
 You can support me in writing better code in <https://afdian.net/a/pipinstalljoey>
+
+## Quick Start
+Click this link <https://blog.pipinstalljoey.top/2023/11/12/14-1-About-QQBot-with-Iflytek-Spark-Quick-Start/>
